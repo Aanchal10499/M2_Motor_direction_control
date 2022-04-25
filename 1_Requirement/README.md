@@ -24,7 +24,9 @@
 
 	Strengths:   1. It is Easy to use.
 
+               
                2. Automated project for wide application
+               
                
                3. Low cost and compatible
 
