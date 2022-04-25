@@ -23,11 +23,7 @@
 •	SWOT ANALYSIS
 
 	Strengths:   1. It is Easy to use.
-
-               
                2. Automated project for wide application
-               
-               
                3. Low cost and compatible
 
 	Weakness: 1. Project is about direction control but it is sometimes needed that both direction and speed control are required for wider applications.
